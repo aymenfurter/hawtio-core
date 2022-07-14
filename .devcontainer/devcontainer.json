@@ -1,6 +1,6 @@
 {
     "name": "hawtio core",
-    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-16",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-12",
     "settings": {},
     "extensions": [],
     "forwardPorts": [3000],
